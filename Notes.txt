@@ -1,0 +1,42 @@
+Database Structure
+
+Home = {id: 1,
+        Address: {
+            Street: 123 Main Street,
+            City: Anytown,
+            State: Example State,
+            Zipcode: 12345,
+            Cityountry: United States
+        },
+        Price: 100000,
+        Square Footage: 100000,
+
+        Interior: 
+                {Bedrooms & bathrooms: 
+                    {Bedrooms: 1
+                    Bathrooms: 1
+                    },
+                Flooring: Carpet,
+                Heating: Fireplace,
+                Cooling: Air Condition Unit,
+                Appliances: Washer, Dryer},
+            Property: {
+                Year Built: 1999,
+                Parking: {Total Spaces: 1,
+                        Garage Spaces: 1,
+                        Parking Features: RV Space  
+                        },
+                Other Property Information: {
+                    Parcel Number: 2323232,
+                    Inclusions: Dishwasher, Microwave
+                }
+            },
+            Realtor: Attach Schema for Realtor
+            }
+
+  Realtor: {
+    Name: John Doe,
+    Email: john@example.com,
+    Phone: 555-555-5555
+  }
+            
