@@ -1,0 +1,119 @@
+[
+    {
+      "id": 1,
+      "images": {
+        "1": "URL.com",
+        "2": "URL.com"
+      },
+      "Address": {
+        "Street": "123 Main Street",
+        "City": "Anytown",
+        "State": "Example State",
+        "Zipcode": "12345",
+        "Country": "United States"
+      },
+      "Price": 100000,
+      "Square Footage": 100000,
+      "Interior": {
+        "Bedrooms & bathrooms": {
+          "Bedrooms": 1,
+          "Bathrooms": 1
+        },
+        "Flooring": "Carpet",
+        "Heating": "Fireplace",
+        "Cooling": "Air Condition Unit",
+        "Appliances": ["Washer", "Dryer"]
+      },
+      "Property": {
+        "Year Built": 1999,
+        "Parking": {
+          "Total Spaces": 1,
+          "Garage Spaces": 1,
+          "Parking Features": "RV Space"
+        },
+        "Other Property Information": {
+          "Parcel Number": 2323232,
+          "Inclusions": ["Dishwasher", "Microwave"]
+        }
+      },
+      "Realtor": {}
+    },
+    {
+      "id": 2,
+      "images": {
+        "1": "URL.com",
+        "2": "URL.com"
+      },
+      "Address": {
+        "Street": "456 Elm Street",
+        "City": "Sometown",
+        "State": "Another State",
+        "Zipcode": "54321",
+        "Country": "United States"
+      },
+      "Price": 150000,
+      "Square Footage": 1200,
+      "Interior": {
+        "Bedrooms & bathrooms": {
+          "Bedrooms": 2,
+          "Bathrooms": 1
+        },
+        "Flooring": "Hardwood",
+        "Heating": "Central Heating",
+        "Cooling": "Central Air Conditioning",
+        "Appliances": ["Refrigerator", "Stove", "Dishwasher"]
+      },
+      "Property": {
+        "Year Built": 2005,
+        "Parking": {
+          "Total Spaces": 2,
+          "Garage Spaces": 0,
+          "Parking Features": "Driveway"
+        },
+        "Other Property Information": {
+          "Parcel Number": 9876543,
+          "Inclusions": ["Ceiling Fans", "Window Coverings"]
+        }
+      },
+      "Realtor": {}
+    },
+    {
+      "id": 3,
+      "images": {
+        "1": "URL.com",
+        "2": "URL.com"
+      },
+      "Address": {
+        "Street": "789 Oak Avenue",
+        "City": "Anycity",
+        "State": "Some State",
+        "Zipcode": "67890",
+        "Country": "United States"
+      },
+      "Price": 200000,
+      "Square Footage": 1500,
+      "Interior": {
+        "Bedrooms & bathrooms": {
+          "Bedrooms": 3,
+          "Bathrooms": 2
+        },
+        "Flooring": "Tile",
+        "Heating": "Radiant Heating",
+        "Cooling": "Split System Air Conditioning",
+        "Appliances": ["Washer", "Dryer", "Oven", "Microwave"]
+      },
+      "Property": {
+        "Year Built": 2010,
+        "Parking": {
+          "Total Spaces": 2,
+          "Garage Spaces": 2,
+          "Parking Features": "Attached Garage"
+        },
+        "Other Property Information": {
+          "Parcel Number": 1234567,
+          "Inclusions": ["Security System", "Smart Thermostat"]
+        }
+      },
+      "Realtor": {}
+    }
+  ]
